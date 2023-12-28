@@ -1,0 +1,16 @@
+h1 {
+    color: blueviolet;background-color: aquamarine;
+    font-size: 40px;font-family: "calibri", Helvetica, sans-serif;
+}
+h2 {
+background-color: aquamarine;color: brown;
+}
+.one {
+    background-color: palevioletred;
+}
+#two {
+    background-color: rgb(91, 174, 162);
+}
+body {
+    background-color: rgb(100, 65, 159);
+}
