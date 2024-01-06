@@ -1,10 +1,25 @@
-h1 {
+body {
+    background: scroll;
+    background-color: rgb(192, 136, 34);
+}
+a {
+    text-decoration:none;
+}
+.header {
     color: blueviolet;background-color: aquamarine;
     font-size: 40px;font-family: "calibri", Helvetica, sans-serif;
+width: 275px;
+text-align: center;
+margin: 10px auto;
+padding: 8px;
 }
-h2 {
-background-color: aquamarine;color: brown;
+
+.intro {
+background-color: aquamarine;color: rgb(18, 1, 1);
+width: 310px;
+margin: 1px auto;
 }
+
 .one {
     background-color: palevioletred;
 }
@@ -12,5 +27,5 @@ background-color: aquamarine;color: brown;
     background-color: rgb(91, 174, 162);
 }
 body {
-    background-color: rgb(100, 65, 159);
+    background-color: "rainbow";
 }
