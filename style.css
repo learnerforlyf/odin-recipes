@@ -1,22 +1,22 @@
 body {
     background: scroll;
-    background-color: rgb(192, 136, 34);
+    background-color: rgb(246, 245, 215);
+    text-align: justify;
+    width: 800px;
 }
-a {
-    text-decoration:none;
-}
+
 .header {
-    color: blueviolet;background-color: aquamarine;
+    color: blueviolet;
     font-size: 40px;font-family: "calibri", Helvetica, sans-serif;
-width: 275px;
+width:275px;
 text-align: center;
 margin: 10px auto;
 padding: 8px;
 }
 
 .intro {
-background-color: aquamarine;color: rgb(18, 1, 1);
-width: 310px;
+color: rgb(247, 10, 10);
+width: 305px;
 margin: 1px auto;
 }
 
